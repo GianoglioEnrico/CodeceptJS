@@ -25,5 +25,9 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://taniarascia.github.io/react-hooks"
+  "homepage": "https://taniarascia.github.io/react-hooks",
+  "devDependencies": {
+    "codeceptjs": "^3.0.2",
+    "puppeteer": "^5.5.0"
+  }
 }
